@@ -1,1 +1,1 @@
-the basics of shell command
+shows the list of our directory
