@@ -1,1 +1,1 @@
-move
+delete all
