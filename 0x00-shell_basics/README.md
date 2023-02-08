@@ -1,1 +1,1 @@
-betty gone
+first directory gone
