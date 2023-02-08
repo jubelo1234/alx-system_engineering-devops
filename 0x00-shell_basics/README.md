@@ -1,1 +1,1 @@
-view in long format
+view hidden file in long format
