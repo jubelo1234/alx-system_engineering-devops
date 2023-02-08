@@ -1,1 +1,1 @@
-goingback home
+view in long format
